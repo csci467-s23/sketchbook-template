@@ -15,7 +15,7 @@ There are a couple of steps required on GitHub for this process to work.
 - In the menu on the left, choose **Actions** and then **General** from the options that appear below **Actions**.
 - Find the section marked **Workflow permissions** and change the setting to "read and write permissions" (this allows the action I wrote for you to make changes to the files in your repository).
 - Again from the menu on the left, choose **Pages**.
-- In the **Build and deployment** section, set the **Source** to "Deploy from a branch" and set the **Branch** to "main"
+- In the **Build and deployment** section, set the **Source** to "Deploy from a branch" and set the **Branch** to "main" and then click the "Save" button
 
 
 Everything should now be set up. Every time that you push your code to GitHub, it will automatically generate the list of sketches and publish your site. 
