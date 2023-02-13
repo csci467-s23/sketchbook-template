@@ -13,7 +13,7 @@ There are a couple of steps required on GitHub for this process to work.
 
 - Open the project settings on GitHub (it is the far right tab in the tab bar at the top with a gear con next to it)
 - In the menu on the left, choose **Actions** and then **General** from the options that appear below **Actions**.
-- Find the section marked **Workflow permissions** and change the setting to "read and write permissions" (this allows the action I wrote for you to make changes to the files in your repository).
+- Find the section marked **Workflow permissions** and change the setting to "read and write permissions" (this allows the action I wrote for you to make changes to the files in your repository). If this is already set, just move to the next step.
 - Again from the menu on the left, choose **Pages**.
 - In the **Build and deployment** section, set the **Source** to "Deploy from a branch" and set the **Branch** to "main" and then click the "Save" button
 
